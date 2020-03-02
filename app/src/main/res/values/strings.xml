@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="mane">Imevbore</string>
+    <string name="yellow_star">yello star</string>
+
+    <string name="bio"> Hi, I am the Android Phrophet,
+    \n\nI am an android developer.
+        \n\n I am also a virtual reality developer.
+        \n as well as an augmented reality developer.
+        \n\n I have a laptop, her name is Amanda.
+        \n I am constantly learning technology.
+        \n\n I work with Android Studio, Unity3d and Spark Ar.
+        \n and of all three android studio is the most demanding.
+        \n because android software,libraries, and method of coding keeps changing before you even blink.
+        \n\n There is constantly so much to learn.
+        \n I am currently looking for a job.
+        \n Scary part is before you even finish learning it, it might become obsolete.
+        \n\n i really enjoy working with unity and google cardboard sdk to build virtual reality apps.
+        \n I have a VR app about space and the planets, its called planets at your feet.
+        \n I have an instiable quest for knownledge, i like to know things.
+        \n\n lately i have been obsessed with time.
+        \n what is time?
+        \n are we ever going to be able to manipulate and bend it to our will?
+        \n what exists outside of time?
+
+    </string>
+    <string name="nickname_question">what is your nick name ?</string>
+    <string name="done">DONE</string>
+</resources>
